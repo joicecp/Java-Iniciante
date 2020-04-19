@@ -1,5 +1,5 @@
 
-package idiomasistema;
+package informacoesistema;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
@@ -9,7 +9,7 @@ import java.util.GregorianCalendar;
 import java.util.Locale;
 
 
-public class IdiomaSistema {
+public class InformacoesSistema {
 
     public static void main(String[] args) {
 
